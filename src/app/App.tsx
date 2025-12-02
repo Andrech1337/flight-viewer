@@ -1,6 +1,7 @@
 import type { FC } from "react";
 import Router from "./Router.tsx";
 import Providers from "./Providers.tsx";
+import "./reset.scss";
 
 const App: FC = () => {
   return (
